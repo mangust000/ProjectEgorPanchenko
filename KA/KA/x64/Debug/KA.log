@@ -1,3 +1,0 @@
-﻿  Life.cpp
-C:\Users\Егор\Desktop\projectKA\KA\KA\Life.cpp(15,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  KA.vcxproj -> C:\Users\Егор\Desktop\projectKA\KA\x64\Debug\KA.exe

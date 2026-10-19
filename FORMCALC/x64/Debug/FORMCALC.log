@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\Егор\Desktop\projectKA\FORMCALC\FORMCALC\MyForm.h(225,33): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Егор\Desktop\projectKA\FORMCALC\FORMCALC\MyForm.h(269,33): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\Егор\Desktop\projectKA\FORMCALC\FORMCALC\MyForm.h(269,25): warning C4244: аргумент: преобразование "wchar_t" в "char", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  FORMCALC.vcxproj -> C:\Users\Егор\Desktop\projectKA\FORMCALC\x64\Debug\FORMCALC.exe

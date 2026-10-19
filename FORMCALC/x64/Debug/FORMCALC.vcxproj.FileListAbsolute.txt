@@ -1,0 +1,3 @@
+C:\Users\Егор\Desktop\projectKA\FORMCALC\FORMCALC\x64\Debug\FORMCALC.vcxproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\projectKA\FORMCALC\FORMCALC\x64\Debug\FORMCALC.MyForm.resources
+C:\Users\Егор\Desktop\projectKA\FORMCALC\FORMCALC\x64\Debug\FORMCALC.vcxproj.GenerateResource.cache
